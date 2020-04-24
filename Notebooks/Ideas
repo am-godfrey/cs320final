@@ -1,0 +1,20 @@
+Month Analysis in 2019
+
+Do an overall geographic map with dots.
+
+Age Comparison:
+	Alphanumeric entry in incident report or vicitm. Would be interesitng
+  
+Distance from station:
+	Do how far is the average distance from the police station.
+	Plot one according to this.
+
+Note about times:
+	Fix the incident time, regex the details, otherwise use incident time
+  to get a more accurate measurement
+
+
+Victim and Arrested
+	Do ARRESTED AND VIctim Data NLP
+
+Heatmap over 2019 - 2020 of crimes near us
