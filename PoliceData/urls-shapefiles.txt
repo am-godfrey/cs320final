@@ -1,0 +1,4 @@
+https://data-cityofmadison.opendata.arcgis.com/datasets/parks
+https://data-cityofmadison.opendata.arcgis.com/datasets/city-limit
+https://data-cityofmadison.opendata.arcgis.com/datasets/lakes-and-rivers
+https://data-cityofmadison.opendata.arcgis.com/datasets/street-centerlines-and-pavement-data
