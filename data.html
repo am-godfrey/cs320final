@@ -1,0 +1,44 @@
+<html>
+<center>
+<body>
+<pre>
+Before we start to look at our findings, it is important to note out limiations in the study
+
+1. First, the data released was determined with the following criteria:
+"""Incidents listed are selected by the Officer In Charge of each shift that may have significant public interest. 
+Incidents listed are not inclusive of all incidents."""
+
+Therefore, the data may not be an all inclsuive list of where the majority of crime is occuring.
+But, it can allow us to make infromed conclusion with the idea that it is a sampling.
+
+Our data is at the will of the city's willignness, accuracy, and consitency to use this system for the public to see.
+
+2. In our anlysis the city seems to not fully utilize the reporting system until 2005, and rampant use starting in 2009,
+so most of our analysis accounted for that.
+
+3. The Geogrphic location we estaimted through Google's Geocoding API and the Officers ability to report a descpritive address
+leaves 44 of our incidents incorrect, 0.2% of data out of ~13,000 Incidents. Roughly 24 incidents were not in madison when estimating their position, 
+and the other 20 were slightly outside the city of Madison limits. Additionally, when estimating such addresses, the police's ability
+to label the location affects the exact location difference, if given a street name without a number. Overall, the police did a well enough
+job at reporting the locations to leave us in good faith the locations are accurate
+Dataset Tackling:
+
+How to gather  --------------
+
+Our dataset is of incidents from <a href="https://data-cityofmadison.opendata.arcgis.com/datasets/police-incident-reports">data-cityofMadison.opendata.arcgis.com.</a>
+
+Our shapefiles were taken from these links:
+<a href="https://data-cityofmadison.opendata.arcgis.com/datasets/parks">Parks</a>
+<a href="https://data-cityofmadison.opendata.arcgis.com/datasets/city-limit">City Limits</a>
+<a href="https://data-cityofmadison.opendata.arcgis.com/datasets/lakes-and-rivers
+">Lakes and Rivers</a>
+<a href="https://data-cityofmadison.opendata.arcgis.com/datasets/street-centerlines-and-pavement-data">Street and Pavement Data</a>
+
+
+Addtionally, the police stations were collected from this link: <a href="https://data-cityofmadison.opendata.arcgis.com/datasets/police-stations">Police Stations</a>
+
+The data for Milwaukee's crime was taken here: <a href="https://data.milwaukee.gov/dataset/wibrarchive">Milwaukee (Historical)</a>
+
+The Incidents reports was fairly large accounting for ~22 MB so we did not include it in the zipfile.</pre>
+    </center>
+    </body>
