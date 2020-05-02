@@ -21,6 +21,18 @@ def acks():
     with open("results.html") as f:
         html = f.read()
     return html
+
+@app.route('/before.html')
+def acks():
+    with open("before.html") as f:
+        html = f.read()
+    return html
+
+@app.route('/after.html')
+def acks():
+    with open("after.html") as f:
+        html = f.read()
+    return html
     
     
 if __name__ == '__main__':
