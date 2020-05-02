@@ -1,0 +1,9 @@
+Police Incidents In Madison from 2005 - 2020.
+
+The plot below is an overview of Madison, and the prevlance of crime in certain areas from 2005 - 2020.
+Darker shades of red indicate places where more crime occurs, and the Black makers represent the 7 police stations.
+In this plot, we can cleary see a high prevelance of crime on the Isthmus, into the mouth of the northwestern corridor
+In addition, the far Southeast district and south disctrict seems to have an higher prevalnce of crime.
+One area of concern for the upcoming future is the safety of the BRT route as the route strongly matches the crime prevelance. 
+The increase of traffic around these areas with have increased population and exposure, 
+therefore it is in the best intrest of the Police department to plan accordingly.
