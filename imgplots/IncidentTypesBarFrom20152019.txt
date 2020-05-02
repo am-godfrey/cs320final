@@ -1,0 +1,5 @@
+The graph above shows the trends of different types of reported crime across 2015 - 2019.
+Most of the crimes seem to stay constistent expcept for three categories: Weapons Violation, Robbery, and Residential Burglary.
+There seems to be a increase in weapons violations and robbery in 2017 and 2018, but these crimes fall to lower levels in 2019.
+Suprsingly, residential burglaries seem to surge in 2019. In fact, there is a 53% increase of burglaries from 2018 to 2019, and a 75% from the average amount of burglaires since 2009.
+This is a startling statstic that could affect resdiential homeowners worries.
