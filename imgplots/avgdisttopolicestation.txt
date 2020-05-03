@@ -1,0 +1,5 @@
+Question:
+What is the average distance of every crime from 2005-2019 to the police station and is the average distance acceptable?
+
+Conclusion:
+According to the graph, the average distance for the Madison Police Department is between 1.26 - 1.34 miles. 
