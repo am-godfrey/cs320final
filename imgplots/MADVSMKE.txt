@@ -1,0 +1,4 @@
+Question: Compared with Milwaukee, which month has the lowest amount of crime from 2005 - 2019?
+The graph shows that the month of Feburary has the least amount of crime between 2005-2019. However, Madison has a significantly lower amount of crimes per month compared to Milwaukee. On the graph, this is shown by how the high numbers of Milwaukee make Madison's data look like a flat line as the amount of crime in Madison per month hovers around a thousand. The trend that is set here is that crime is more common in the summer months than in winter. Perhaps it's too cold to do bad stuff.
+
+Conclusion: Feburary is the safest month within the year, and Madison remains a much safer city to live and study in.
