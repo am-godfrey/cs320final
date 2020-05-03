@@ -1,0 +1,10 @@
+The third type of incident we analyzed was theft.
+We summarized the categories of theft, robbery, and theft from auto as one as they are similar crimes.
+We looked at the occurence rates of these crimes and saw a steep decline in occurrences since 2009. 
+Our linear regression model predicted a total of 189 incidents, an absolute minimum across all years.
+The outlook of the data since April 19th, 2020 seems to be more optimistic that at this rate in 2020, we can expect 128 incidents.
+Overall, the Police department does not need to focus their attention seeking these types of crimes, but they are still prevalent.
+
+In fact, we can see below, a scatter plot of all incidents since 2014 that has regions with more occurences.
+It is evident that there is a significant cluster just north of the southeast police department, and a large portion of occurrences occuring along HWY 151 into the upper east corridor.
+While these occurrences have been decreasing, it is still in the public interest to patrol such areas appropriately.
