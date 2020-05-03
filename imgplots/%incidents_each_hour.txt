@@ -1,0 +1,4 @@
+The graph above shows how reported crimes are distributed across different times of the day. 
+The trend the graph shows is to be expected due the the following reasons.
+It can be seen that crimes occur the least between 8:00AM to 4:00PM, likely because that is the time interval with the most human outdoor activity.
+Crimes such as theft and drunk-driving are often done when its dark / after late-night parties, which could explain why crime occurs more often during the night.
